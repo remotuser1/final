@@ -5,6 +5,8 @@ public class PruebaGit {
 		System.out.println("Hola a todos!");
 		
 		String nombre = "Carles";
+		
+		System.out.println(nombre);
 	}
 
 }
